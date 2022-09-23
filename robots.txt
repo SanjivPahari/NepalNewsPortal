@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /recommend_videos.php
+Disallow: /load_topic.php
+Disallow: /trending_today.php
+Disallow: /trending_worldwide.php
