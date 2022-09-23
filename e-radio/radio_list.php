@@ -1,0 +1,26 @@
+<?PHP
+$radio_list=array(
+0=>array('BFM 91.2','https://bfm912.com/','http://streaming.hamropatro.com:8124/;','bfm912.png','national'),
+1=>array('Kantipur FM 96.1','http://radiokantipur.ekantipur.com/live/krdo','http://broadcast.radiokantipur.com:7248/stream','kantipurradio.png','national'),
+2=>array('BBC Nepal Radio','https://www.bbc.com/nepali','http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla_backup','bbcnepali.jpg','international'),
+3=>array('Annapurna FM 93.4','https://www.radioannapurna.com.np/','http://live.itech.host:8964/stream','radio-annapurna.png','national'),
+4=>array('Nepal FM 91.8','http://nfm.com.np/','http://streaming.hamropatro.com:8230/;','nepalfm.jpg','national'),
+5=>array('Capital FM 92.4','http://www.cfmonair.com/','http://streaming.softnep.net:8037/;','capitalfm.png','national'),
+6=>array('BFBS Gurkha Radio','https://www.forces.net/radio/stations/bfbs-radio-gurkha','https://tx.sharp-stream.com/http_live.php?i=ssvcbfbs3.aac&device=bfbs_gurkha','bfbs.jpg','international'),
+7=>array('Kalika FM 95.2 & 91','http://www.kalikafm.com.np/','http://kalika-stream.softnep.com:7740/;','kalikafm.jpg','local'),
+8=>array('Image FM 97.9','http://www.imagefm.com.np/','http://streaming.hamropatro.com:8631/;stream.mp3','imagefm.png','national'),
+9=>array('Hits FM 91.2','http://www.hitsfm.com.np/','http://198.27.83.198:5098/stream','hitsfm.png','national'),
+10=>array('Gurung Radio','http://gurungradio.com/','http://live.itechnepal.com:9052/stream?type=.mp3','gurungradio.jpg','local'),
+12=>array('Ilam FM 93.0','http://www.ilamfm.org/','http://live.itechnepal.com:9635/stream','ilamfm.png','local'),
+13=>array('Nagarik FM 107.5','http://www.nagarikfm.com.np/','http://live.itechnepal.com:7031/stream','nagarikfm.jpg','local'),
+14=>array('Radio Himalaya','http://www.radiohimalaya.com/','http://core.itech.host:8541/;','radiohimalaya.jpg','local'),
+15=>array('Vijayapur FM','http://www.vijayapurfm.com/','http://live.itech.host:9479/stream','bijaypurfm.png','local'),
+16=>array('Ujyaalo Online','http://www.ujyaaloonline.com/','http://stream.zenolive.com/wtuvp08xq1duv','ujyalo.png','national'),
+17=>array('Solu FM 101.2','http://www.radiosolu.org/','http://live.itechnepal.com:9545/stream','radiosolu.jpg','local'),
+18=>array('RadioSagar','https://www.radiosagar.org/','http://37.187.79.56:3084/;','radiosagar.jpg','national'),
+19=>array('Radio Makawanpur','http://www.radiomakawanpur.com/','http://glzicelv01.vds-is.bynetcdn.com/glglz.mp3','radiomakwanpur.jpg','local'),
+20=>array('Radio Republic 88.2','http://radiorepublic.com.np/','http://streaming.hamropatro.com:8359/;stream/1?1524300286237','radiorepublic.jpg','national'),
+21=>array('Red FM 101','http://www.redfm.com.np/','http://live.websoftitnepal.com:9988/;','redfm.jpg','national'),
+21=>array('Big FM 101.2','http://www.fmbig.com/','http://50.7.99.163:16118/stream','bigfm.jpg','local'),
+);
+?>

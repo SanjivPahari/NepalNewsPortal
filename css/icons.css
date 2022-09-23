@@ -1,0 +1,160 @@
+.ico{width:20px;padding-left:20px;padding-right:5px;padding-bottom:5px;content:"&nbsp;";background-repeat:no-repeat!important;background-size:20px 20px!important}
+.ico-large{width:50px;padding-left:60px;padding-right:30px;padding-bottom:5px;content:"&nbsp;";background-repeat:no-repeat!important;background-size:50px 50px!important}
+.ico.videos{background:url(../img/videos.png)}
+.ico.search{background:url(../img/search.png)}
+.ico.instagram{background:url(../img/instagram.png)}
+.ico.facebook{background:url(../img/facebook.png)}
+.ico.email{background:url(../img/email.png)}
+.ico-large.videos{background:url(../img/videos.png)}
+.ico-large.radio{background:url(../img/radio.png)}
+
+.ico.sports{background:url(../img/sports.png)}
+.ico-large.sports{background:url(../img/sports.png)}
+
+.ico.trending{background:url(../img/trending2.png)}
+.ico-large.trending{background:url(../img/trending2.png)}
+
+.ico.trending_new{background:url(../img/trending.png)}
+
+.ico.lifestyle{background:url(../img/lifestyle1.png)}
+.ico-large.lifestyle{background:url(../img/lifestyle1.png)}
+
+.ico.epaper{background:url(../img/epaper.png)}
+.ico-large.epaper{background:url(../img/epaper.png)}
+
+.ico.economy{background:url(../img/money.png)}
+.ico-large.economy{background:url(../img/money.png)}
+
+.ico.newsletter{background:url(../img/newsletter.png)}
+.ico-large.newsletter{background:url(../img/newsletter.png)}
+
+
+.ico.politics{background:url(../img/politics.png)}
+.ico-large.politics{background:url(../img/politics.png)}
+
+.ico.international{background:url(../img/international.png)}
+.ico-large.international{background:url(../img/international.png)}
+
+.ico.entertainment{background:url(../img/entertainment.png)}
+.ico-large.entertainment{background:url(../img/entertainment.png)}
+
+.ico.eradio{background:url(../img/radio.png)}
+.ico.more{background:url(../img/more.png)}
+.ico.youtube_trending{background:url(../img/youtube_trending.jpg)}
+
+.navbar .navbar-nav>.nav-item {
+    float: none;
+    margin-left: .1rem;
+}
+.navbar .navbar-nav {
+    float:none !important;
+    max-height: 240px;
+    overflow: auto;
+}
+.navbar .collapse.in, .navbar .collapsing  {
+    clear:both;
+}
+.loading{
+	background:url(../img/loading_new.gif);   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width:50px;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:150px;
+	content:"&nbsp;";
+	background-repeat:no-repeat!important;background-size:150px 150px!important
+	}
+	
+		
+	.timeline-item {
+        background-color: #fff;
+        border: 1px solid;
+        border-color: #ddd;
+        
+        padding: 12px;
+        margin: 0 auto;
+    }
+
+    @keyframes placeHolderShimmer {
+        0% {
+            background-position: 0 0;
+        }
+
+        100% {
+            background-position: 10000px 0;
+        }
+    }
+
+    .animated-background {
+        animation-duration: 10s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        animation-name: placeHolderShimmer;
+        background: #f6f7f8;
+        background: linear-gradient(to right, #eeeeee 8%, #aacfde 18%, #eeeeee 33%);
+        height: 96px;
+        position: relative;
+    }
+
+    .background-masker {
+        background: #fff;
+        position: absolute;
+    }
+
+        /* Every thing below this is just positioning */
+
+        .background-masker.content-top,
+        .background-masker.content-second-line,
+        .background-masker.content-third-line,
+        .background-masker.content-second-end,
+        .background-masker.content-third-end,
+        .background-masker.content-first-end {
+            top: 40px;
+            left: 0;
+            right: 0;
+            height: 6px;
+        }
+
+        .background-masker.content-first {
+            height: 10px;
+            top: 15px;
+            left: 0;
+            right: 0;
+        }
+
+        .background-masker.content-top {
+            height: 20px;
+        }
+
+        .background-masker.content-first-end,
+        .background-masker.content-second-end,
+        .background-masker.content-third-end {
+            width: auto;
+            left: 380px;
+            right: 0;
+            top: 60px;
+            height: 8px;
+        }
+
+        .background-masker.content-second-line {
+            top: 68px;
+        }
+
+        .background-masker.content-second-end {
+            left: 420px;
+            top: 74px;
+        }
+
+        .background-masker.content-third-line {
+            top: 82px;
+        }
+
+        .background-masker.content-third-end {
+            left: 300px;
+            top: 88px;
+        }
+		
+		
