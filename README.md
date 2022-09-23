@@ -1,4 +1,20 @@
 # NepalNewsPortal
+
+
+#### Developed: Januaray 2019
+
+### Developer:
+
+- Sanjiv Pahari
+
+I developed this project during my junior highschool year at Gandaki Boarding School, Lamachaur, Pokhara. The project also won a runner up position in Annual School Computer Fair.
+
+
+
+*********************************************************
+
+## ABSTRACT
+
 NepalNewsPortal was an online E-News site made with purpose of bringing all Nepali News Portal together under one common platform.
 
 
