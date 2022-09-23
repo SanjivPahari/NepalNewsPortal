@@ -16,9 +16,10 @@ I developed this project during my junior highschool year at Gandaki Boarding Sc
 ## ABSTRACT
 
 NepalNewsPortal was an online E-News site made with purpose of bringing all Nepali News Portal together under one common platform.
+It aggregated news from various news portal and shown then under a common roof. 
 
 
-I was devleoped to made access to news from Nepal faster and simpler for all Nepalese around the world.
+It was devleoped to made access to news from Nepal faster and simpler for all Nepalese around the world.
 
-News are categorized into various categories. Users can search news from various Nepali News Medias in just one click without visiting sites to sites.
+News were categorized into various categories. Users could also search news from various Nepali News Medias in just one click without visiting sites to sites.
 E-Papers from various medias were also available in the site.
