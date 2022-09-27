@@ -23,3 +23,15 @@ It was developed to made access to news from Nepal faster and simpler for all Ne
 
 News were categorized into various categories. Users could also search news from various Nepali News Medias in just one click without visiting sites to sites.
 E-Papers from various medias were also available in the site.
+
+![Screenshots](quiz%20screenshots%2Fhomepage.png)
+
+![Screenshots](quiz%20screenshots%2Fhomepage.png)
+
+![Screenshots](quiz%20screenshots%2Fhomepage.png)
+
+![Screenshots](quiz%20screenshots%2Fhomepage.png)
+
+![Screenshots](quiz%20screenshots%2Fhomepage.png)
+
+![Screenshots](nepal%20news%20portal%20screenshot%2Ftrending%20news%20section.png)
