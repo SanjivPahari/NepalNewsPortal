@@ -25,14 +25,23 @@ News were categorized into various categories. Users could also search news from
 E-Papers from various medias were also available in the site.
 
 
+## HOMEPAGE
+
 ![Screenshots](nepal%20news%20portal%20screenshot%2Ftrending%20news%20section.png)
 
+![Screenshots](nepal%20news%20portal%20screenshot%2Flower%20portion%20of%20site.png)
+
+## ARTICLE
+
 ![Screenshots](nepal%20news%20portal%20screenshot%2Fnews%20article.png)
+
+## E-PAPER & E-RADIO SECTION
 
 ![Screenshots](nepal%20news%20portal%20screenshot%2Fe-paper%20section.png)
 
 ![Screenshots](nepal%20news%20portal%20screenshot%2Fe-raido%20section.png)
 
+## ADMIN PANEL
+
 ![Screenshots](nepal%20news%20portal%20screenshot%2Fadmin%20article%20edit%20section.png)
 
-![Screenshots](nepal%20news%20portal%20screenshot%2Flower%20portion%20of%20site.png)
