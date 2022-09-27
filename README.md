@@ -44,5 +44,7 @@ E-Papers from various medias were also available in the site.
 
 ![Screenshots](nepal%20news%20portal%20screenshot%2Fadmin%20article%20edit%20section.png)
 
+## LOWER PORTION OF SITE
+
 ![Screenshots](nepal%20news%20portal%20screenshot%2Flower%20portion%20of%20site.png)
 
